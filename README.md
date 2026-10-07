@@ -116,7 +116,7 @@ O projeto foi desenvolvido com foco em **simplicidade, segurança e praticidade*
 | Pagamento | Aluguel em andamento |
 |:---:|:---:|
 | <img src="docs/screens/03-pagamento.png" width="280"/> | <img src="docs/screens/04-aluguel-em-andamento.png" width="280"/> |
-| Escolha da forma de pagamento (Pix, cartão ou boleto) | Detalhes da locação ativa, prazo e devolução |
+| Escolha da forma de pagamento (Pix, cartão ou ApplePay) | Detalhes da locação ativa, prazo e devolução |
 
 ---
 
