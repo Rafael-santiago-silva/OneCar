@@ -794,15 +794,11 @@ Seguimos o padrão [Conventional Commits](https://www.conventionalcommits.org/pt
 
 | Nome | Função | GitHub |
 |---|---|---|
-| Seu Nome | Desenvolvedor Full Stack | [@seu-usuario](https://github.com/seu-usuario) |
-| Nome do Colega | UI/UX Designer | [@colega](https://github.com/colega) |
-| Nome do Colega | Back-end | [@colega](https://github.com/colega) |
+| Rafael | Desenvolvedor Full Stack | [@seu-usuario](https://github.com/Rafael-santiago-silva) |
+| Rafael | UI/UX Designer | [@colega](https://github.com/Rafael-santiago-silva) |
+| Rafael | Back-end | [@colega](https://github.com/Rafael-santiago-silva) |
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
