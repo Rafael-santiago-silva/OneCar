@@ -110,12 +110,12 @@ O projeto foi desenvolvido com foco em **simplicidade, segurança e praticidade*
 
 | Tela inicial | Escolha do veículo |
 |:---:|:---:|
-| <img width="463" height="736" alt="Image" src="https://github.com/user-attachments/assets/54f7d522-9f3a-47a9-ae3b-c74068e0b79f" /> | <img src="docs/screens/02-escolha-veiculo.png" width="280"/> |
+| <img width="463" height="736" alt="Image" src="https://github.com/user-attachments/assets/54f7d522-9f3a-47a9-ae3b-c74068e0b79f" /> | <img width="425" height="695" alt="Image" src="https://github.com/user-attachments/assets/91041a14-e7e9-4ce5-acb0-0a78065148ad" /> |
 | Busca de local, datas e acesso rápido às reservas | Lista de carros disponíveis com preço e categoria |
 
 | Pagamento | Aluguel em andamento |
 |:---:|:---:|
-| <img src="docs/screens/03-pagamento.png" width="280"/> | <img src="docs/screens/04-aluguel-em-andamento.png" width="280"/> |
+| <img width="414" height="645" alt="Image" src="https://github.com/user-attachments/assets/88d3c38b-e135-4ce6-92c4-f5dbfe71178a" /> | <img width="427" height="686" alt="Image" src="https://github.com/user-attachments/assets/de8864d2-ba81-463f-aa0e-b8a395b20db4" /> |
 | Escolha da forma de pagamento (Pix, cartão ou ApplePay) | Detalhes da locação ativa, prazo e devolução |
 
 ---
