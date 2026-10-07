@@ -105,8 +105,6 @@ O projeto foi desenvolvido com foco em **simplicidade, segurança e praticidade*
 
 ## 📱 Telas do sistema
 
-> 💡 **Dica:** substitua os caminhos das imagens abaixo pelos prints reais do seu sistema (pasta `docs/screens/`).
-
 ### Onboarding e autenticação
 
 | Splash | Onboarding | Login | Cadastro |
