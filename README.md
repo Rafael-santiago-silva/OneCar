@@ -50,7 +50,6 @@
 - [Roadmap](#-roadmap)
 - [Como contribuir](#-como-contribuir)
 - [Equipe](#-equipe)
-- [Licença](#-licença)
 
 ---
 
