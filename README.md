@@ -110,7 +110,7 @@ O projeto foi desenvolvido com foco em **simplicidade, segurança e praticidade*
 
 | Tela inicial | Escolha do veículo |
 |:---:|:---:|
-| <img <img width="463" height="736" alt="Image" src="https://github.com/user-attachments/assets/54f7d522-9f3a-47a9-ae3b-c74068e0b79f" /> | <img src="docs/screens/02-escolha-veiculo.png" width="280"/> |
+| <img width="463" height="736" alt="Image" src="https://github.com/user-attachments/assets/54f7d522-9f3a-47a9-ae3b-c74068e0b79f" /> | <img src="docs/screens/02-escolha-veiculo.png" width="280"/> |
 | Busca de local, datas e acesso rápido às reservas | Lista de carros disponíveis com preço e categoria |
 
 | Pagamento | Aluguel em andamento |
