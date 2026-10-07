@@ -105,65 +105,19 @@ O projeto foi desenvolvido com foco em **simplicidade, segurança e praticidade*
 
 ## 📱 Telas do sistema
 
-### Onboarding e autenticação
+> 🎨 **Protótipo no Figma:** [Acessar o projeto no Figma](COLE_AQUI_O_LINK_DO_FIGMA)
 
-| Splash | Onboarding | Login | Cadastro |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/screens/01-splash.png" width="180"/> | <img src="docs/screens/02-onboarding.png" width="180"/> | <img src="docs/screens/03-login.png" width="180"/> | <img src="docs/screens/04-cadastro.png" width="180"/> |
+> 🚧 O projeto está em fase inicial de desenvolvimento. As telas abaixo serão atualizadas conforme o sistema evoluir.
 
-| Recuperar senha | Validação de CNH | Selfie com documento | Perfil |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/screens/05-recuperar-senha.png" width="180"/> | <img src="docs/screens/06-cnh.png" width="180"/> | <img src="docs/screens/07-selfie.png" width="180"/> | <img src="docs/screens/08-perfil.png" width="180"/> |
+| Tela inicial | Escolha do veículo |
+|:---:|:---:|
+| <img src="docs/screens/01-tela-inicial.png" width="280"/> | <img src="docs/screens/02-escolha-veiculo.png" width="280"/> |
+| Busca de local, datas e acesso rápido às reservas | Lista de carros disponíveis com preço e categoria |
 
-### Busca e escolha do veículo
-
-| Home | Busca por local | Seleção de datas | Lista de carros |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/screens/09-home.png" width="180"/> | <img src="docs/screens/10-local.png" width="180"/> | <img src="docs/screens/11-datas.png" width="180"/> | <img src="docs/screens/12-lista-carros.png" width="180"/> |
-
-| Filtros | Detalhes do carro | Galeria de fotos | Adicionais (cadeirinha, GPS) |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/screens/13-filtros.png" width="180"/> | <img src="docs/screens/14-detalhes.png" width="180"/> | <img src="docs/screens/15-galeria.png" width="180"/> | <img src="docs/screens/16-adicionais.png" width="180"/> |
-
-### Reserva e pagamento
-
-| Resumo da reserva | Escolha do pagamento | Pagamento com Pix | Cartão de crédito |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/screens/17-resumo.png" width="180"/> | <img src="docs/screens/18-pagamento.png" width="180"/> | <img src="docs/screens/19-pix.png" width="180"/> | <img src="docs/screens/20-cartao.png" width="180"/> |
-
-| Contrato digital | Confirmação | Comprovante | Cupom de desconto |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/screens/21-contrato.png" width="180"/> | <img src="docs/screens/22-confirmacao.png" width="180"/> | <img src="docs/screens/23-comprovante.png" width="180"/> | <img src="docs/screens/24-cupom.png" width="180"/> |
-
-### Retirada, uso e devolução
-
-| Minhas reservas | Detalhes da reserva | Como chegar ao local | QR Code de retirada |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/screens/25-reservas.png" width="180"/> | <img src="docs/screens/26-detalhes-reserva.png" width="180"/> | <img src="docs/screens/27-mapa.png" width="180"/> | <img src="docs/screens/28-qrcode.png" width="180"/> |
-
-| Checklist de vistoria | Fotos do veículo | Locação em andamento | Prorrogar aluguel |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/screens/29-vistoria.png" width="180"/> | <img src="docs/screens/30-fotos.png" width="180"/> | <img src="docs/screens/31-em-andamento.png" width="180"/> | <img src="docs/screens/32-prorrogar.png" width="180"/> |
-
-| Devolução | Vistoria final | Avaliação | Recibo final |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/screens/33-devolucao.png" width="180"/> | <img src="docs/screens/34-vistoria-final.png" width="180"/> | <img src="docs/screens/35-avaliacao.png" width="180"/> | <img src="docs/screens/36-recibo.png" width="180"/> |
-
-### Conta e suporte
-
-| Notificações | Formas de pagamento | Histórico | Ajuda / FAQ |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/screens/37-notificacoes.png" width="180"/> | <img src="docs/screens/38-cartoes.png" width="180"/> | <img src="docs/screens/39-historico.png" width="180"/> | <img src="docs/screens/40-ajuda.png" width="180"/> |
-
-### Painel administrativo (Web)
-
-| Dashboard | Gestão de frota | Cadastro de veículo |
-|:---:|:---:|:---:|
-| <img src="docs/screens/admin-01-dashboard.png" width="260"/> | <img src="docs/screens/admin-02-frota.png" width="260"/> | <img src="docs/screens/admin-03-veiculo.png" width="260"/> |
-
-| Reservas | Pagamentos | Relatórios |
-|:---:|:---:|:---:|
-| <img src="docs/screens/admin-04-reservas.png" width="260"/> | <img src="docs/screens/admin-05-pagamentos.png" width="260"/> | <img src="docs/screens/admin-06-relatorios.png" width="260"/> |
+| Pagamento | Aluguel em andamento |
+|:---:|:---:|
+| <img src="docs/screens/03-pagamento.png" width="280"/> | <img src="docs/screens/04-aluguel-em-andamento.png" width="280"/> |
+| Escolha da forma de pagamento (Pix, cartão ou boleto) | Detalhes da locação ativa, prazo e devolução |
 
 ---
 
