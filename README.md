@@ -578,7 +578,7 @@ onecar/
 ---
 
 ## 🚀 Como executar
-
+ATENÇÃO AREA EM DESENVOLVIMENTO
 ### Pré-requisitos
 
 - [.NET SDK](https://dotnet.microsoft.com/download) 8.0 ou superior
