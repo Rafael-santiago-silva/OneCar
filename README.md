@@ -794,9 +794,9 @@ Seguimos o padrão [Conventional Commits](https://www.conventionalcommits.org/pt
 
 | Nome | Função | GitHub |
 |---|---|---|
-| Rafael | Desenvolvedor Full Stack | [@seu-usuario](https://github.com/Rafael-santiago-silva) |
-| Rafael | UI/UX Designer | [@colega](https://github.com/Rafael-santiago-silva) |
-| Rafael | Back-end | [@colega](https://github.com/Rafael-santiago-silva) |
+| Rafael | Desenvolvedor Full Stack | [@rafael](https://github.com/Rafael-santiago-silva) |
+| Rafael | UI/UX Designer | [@rafael](https://github.com/Rafael-santiago-silva) |
+| Rafael | Back-end | [@rafael](https://github.com/Rafael-santiago-silva) |
 
 ---
 
