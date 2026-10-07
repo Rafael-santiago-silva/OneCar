@@ -105,7 +105,7 @@ O projeto foi desenvolvido com foco em **simplicidade, segurança e praticidade*
 
 ## 📱 Telas do sistema
 
-> 🎨 **Protótipo no Figma:** [Acessar o projeto no Figma](COLE_AQUI_O_LINK_DO_FIGMA)
+> 🎨 **Protótipo no Figma:** [Acessar o projeto no Figma](https://www.figma.com/make/FnvCQsR5EpgN7rVIO6MUkh/Self-Service-Car-Rental-App?code-node-id=0-6&p=f&t=8gZEzMsdANiZ9oQ8-0&fullscreen=1)
 
 > 🚧 O projeto está em fase inicial de desenvolvimento. As telas abaixo serão atualizadas conforme o sistema evoluir.
 
